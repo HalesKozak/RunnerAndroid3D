@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3715907185945888604
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 243b4e1cd08b0dd4b823a71358d8ef5a, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 243b4e1cd08b0dd4b823a71358d8ef5a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4558309
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 243b4e1cd08b0dd4b823a71358d8ef5a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 243b4e1cd08b0dd4b823a71358d8ef5a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.2993398
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 243b4e1cd08b0dd4b823a71358d8ef5a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.053855043
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 243b4e1cd08b0dd4b823a71358d8ef5a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 243b4e1cd08b0dd4b823a71358d8ef5a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.9985488
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 243b4e1cd08b0dd4b823a71358d8ef5a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 243b4e1cd08b0dd4b823a71358d8ef5a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 243b4e1cd08b0dd4b823a71358d8ef5a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -173.826
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 243b4e1cd08b0dd4b823a71358d8ef5a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 243b4e1cd08b0dd4b823a71358d8ef5a, type: 3}
+      propertyPath: m_Name
+      value: Lola B Styperek
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 243b4e1cd08b0dd4b823a71358d8ef5a, type: 3}
+--- !u!1 &4562397335466637837 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 243b4e1cd08b0dd4b823a71358d8ef5a, type: 3}
+  m_PrefabInstance: {fileID: 3715907185945888604}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1710719827
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4562397335466637837}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 900cc3f8aa89d6a4ebc392db4e4b8c1f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
